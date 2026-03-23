@@ -5,6 +5,26 @@
 
 - 📫 How to reach me **henriquevarnierbridi@gmail.com**
 
+---
+
+##  Featured Projects
+
+###  Link Analyzer
+**A full-stack ML application for real-time malicious URL detection.**
+* **The Core:** Engineered a model that analyzes **12+ metadata features** (TLD, character density, risk-words) to predict security threats before a user clicks.
+* **Stack:** ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+* **DevOps:** Containerized with **Docker** and deployed via **Azure Container Apps (ACA)** for serverless scalability.
+* **Links:** [🌐 Live Demo](https://link-analyzer-frontend.blacksand-2a6fc8a9.germanywestcentral.azurecontainerapps.io/) | [📁 Repository](https://github.com/hvbridi/malicious_url_predictor)
+
+###  Car Price Predictor
+**A full-stack ML application for real-time vehicle valuation.**
+* **The Core:** Developed an **XGBoost** regression model processing vehicle metadata (year, mileage, location) to estimate market value with a **~15% MAPE**.
+* **Stack:** ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![XGBoost](https://img.shields.io/badge/XGBoost-black?style=flat-square&logo=xgboost&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+* **DevOps:** Orchestrated using **Docker & Docker Compose**; hosted on **Azure Cloud**.
+* **Links:** [🌐 Live Demo](https://frontend-car-predictor.blacksand-2a6fc8a9.germanywestcentral.azurecontainerapps.io/) | [📁 Repository](https://github.com/hvbridi/XGBRegressor-on-car-prices)
+
+---
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://kaggle.com/aqg4000" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="aqg4000" height="30" width="40" /></a>
